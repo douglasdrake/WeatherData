@@ -6,6 +6,9 @@ __pycache__/
 # api keys
 api_keys.py
 
+# pickle dump
+weather_results_pickle
+
 # C extensions
 *.so
 
