@@ -1,7 +1,7 @@
 # WeatherData
 
 # Project Description
-Examine how meteorlogical variables vary with latitude with plots using [matplotlib](https://matplotlib.org/).  We would expect the results to be 
+Examine how meteorological variables vary with latitude with plots using [matplotlib](https://matplotlib.org/).  We would expect the results to be 
 specific to the particular date for which the data were retrieved.
 
 # Methods
